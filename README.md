@@ -9,3 +9,5 @@
 1. [时序数据预测方法|知乎](https://www.zhihu.com/question/390044856)
 2. [时序数据预测方法总结](https://www.xjx100.cn/news/677382.html?action=onClick)
 3. [相关技术](http://wed.xjx100.cn/news/132656.html?action=onClick)
+## 特征提取
+1. [时间序列如何进行特征提取？|知乎](https://www.zhihu.com/question/276666860/answer/2935276350?utm_id=0)
