@@ -13,7 +13,8 @@
 1. [时间序列如何进行特征提取？|知乎](https://www.zhihu.com/question/276666860/answer/2935276350?utm_id=0)
 ## 工具
 1. [tsfresh](https://tsfresh.readthedocs.io/en/latest/)
-2. [tspiral](https://github.com/cerlymarco/tspiral)
-3. [sklearn](https://www.scikitlearn.com.cn/)
-4. [tslearn](https://github.com/tslearn-team/tslearn/)
-5. [pyts](https://github.com/johannfaouzi/pyts)
+   特征提取（统计量）、特征选择（假设检验）、特征计算的自定义功能、大数据并行处理、时序滚动提取
+3. [tspiral](https://github.com/cerlymarco/tspiral)
+4. [sklearn](https://www.scikitlearn.com.cn/)
+5. [tslearn](https://github.com/tslearn-team/tslearn/)
+6. [pyts](https://github.com/johannfaouzi/pyts)
